@@ -5,7 +5,7 @@ import store from "./store";
 
 // 导入vant移动端组件库
 import Vant from "vant";
-import "vant/lib/index.css";
+import "vant/lib/index.less";
 Vue.use(Vant);
 // 导入全局样式index.less
 import "./styles/index.less";
